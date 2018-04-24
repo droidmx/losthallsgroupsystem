@@ -5,11 +5,11 @@ module.exports = {
 
   // *Required* Bot token. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  TOKEN: '',
+  TOKEN: 'NDM3OTY3MjI4ODAxOTA4NzM3.DcARjg.aAJOSC6w0g4HfEQ_-cuVcy3Ac9I',
 
   // *Required* Bot client ID. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  CLIENT_ID: '',
+  CLIENT_ID: '437967228801908737',
 
   // *Required* Redis URL. Can be left blank if Redis is opened locally.
   // Learn more here. http://redis.io/topics/quickstart
@@ -20,16 +20,18 @@ module.exports = {
 
   // Youtube API key, used for searching videos with `!youtube`.
   // Learn more here. https://developers.google.com/youtube/v3/getting-started
-  YOUTUBE_KEY: '',
+  YOUTUBE_KEY: '
+AIzaSyAAKSiOkapv22Kt3OWNOAWeTcXJ0yLmJ90
+',
 
   // Imgflip username and password, used for creating memes with `!meme`.
   // Create an account here. https://imgflip.com
-  IMGFLIP_USERNAME: '',
-  IMGFLIP_PASSWORD: '',
+  IMGFLIP_USERNAME: 'droidmxbro',
+  IMGFLIP_PASSWORD: 'Sonu@234',
 
   // Champion.gg API key, used for the League of Legends `!lol` commands.
   // Create a key here. http://api.champion.gg
-  CHAMPIONGG_KEY: '',
+  CHAMPIONGG_KEY: '693f416bfd5ec43409f38348a139b6fb',
 
   // Riot's API key, used for player and match search commands.
   // BE WARNED, a development key will be very limited and most of the time will not work,
@@ -46,11 +48,11 @@ module.exports = {
 
   // Popkey API key, used for searching GIFs with `!popkey`.
   // Apply for a key here. http://popkey.co/api/submit
-  POPKEY_KEY: '',
+  POPKEY_KEY: '99LYTP-P8PJ3YLEGW',
 
   // Random.org API key, used for getting random numbers and strings with `!random`.
   // Get a key here. https://api.random.org/api-keys
-  RANDOM_KEY: '',
+  RANDOM_KEY: '0e4051ca-4fa2-4746-bcd2-135fb47bf450',
 
   // Cleverbot API key, used for talking with `!chat`.
   // Get a key here. https://www.cleverbot.com/api
